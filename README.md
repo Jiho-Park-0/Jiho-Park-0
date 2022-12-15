@@ -1,5 +1,6 @@
 <h3 align="left">Hi 👋, I'm Jiho Park</h3>
-<h3 align="center">A passionate backend developer from Korea</h3>
+<h3 align="left">A passionate backend developer from Korea</h3>
+
 - 📖 Education <br>
  <li> Pusan National University, CSE (19.03 ~ ?)</li><br>
 - 📫 How to reach me **jihodayo@gmail.com**<br>
