@@ -2,7 +2,7 @@
 <h3 align="left">A passionate backend developer from Korea</h3>
 
 - 📫 How to reach me **jihodayo@gmail.com**
-- 
+
 <p align="left">
 </p>
 
