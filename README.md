@@ -3,7 +3,9 @@
 
 ### 📖 Education <br>
  - Pusan National University, CSE (19.03 ~ )<br>
-### 📫 How to reach me **jihodayo@gmail.com**<br>
+### 📫 How to reach me jihodayo@gmail.com<br>
+
+---
 
 <p align="left">
 </p>
