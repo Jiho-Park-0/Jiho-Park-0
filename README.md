@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jiho Park</h1>
-<h3 align="center">A passionate backend developer from Korea</h3>
+<h3 align="left">Hi 👋, I'm Jiho Park</h3>
+<h3 align="left">A passionate backend developer from Korea</h3>
 
 - 📫 How to reach me **jihodayo@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
