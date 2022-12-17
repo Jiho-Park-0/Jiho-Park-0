@@ -2,7 +2,7 @@
 <h3 align="left">A passionate backend developer from Korea</h3>
 
 ### 📖 Education <br>
- - Pusan National University, CSE (19.03 ~ )<br>
+ - Pusan National University, CSE (21.03 ~ )<br>
 ### 📫 How to reach me jihodayo@gmail.com<br>
 
 ---
