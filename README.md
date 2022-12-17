@@ -1,5 +1,4 @@
 <h3 align="left">박지호(Jiho Park)</h3>
-<h3 align="left">A passionate backend developer from Korea</h3>
 
 ### 📖 Education <br>
  - Pusan National University, CSE (21.03 ~ )<br>
