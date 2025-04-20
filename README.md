@@ -2,7 +2,6 @@
 
 ### 📖 Education <br>
  - Pusan National University, CSE (21.03 ~ )<br>
- - 삼성중공업 인턴십 (23.01 ~ 23.02)<br>
 
 ### 📫 How to reach me jihodayo@gmail.com<br>
 
